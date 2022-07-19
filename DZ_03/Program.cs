@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Enter number; ");
+﻿Console.WriteLine("Enter number: ");
 int x = Convert.ToInt32 (Console.ReadLine());
 
 if ( x < 6 ) 
